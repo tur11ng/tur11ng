@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I hold an Int. MSc. degree in Computer Science and Informatics.
-- 🔭 I’m currently working as a Cyber Security Engineer.
+- 🔭 I’m currently working as a Cyber Security Engineer and part-time Freelance Fullstack Software Engineer.
 - 🤟 My interests include Cryptography, Mathematics, Reverse Engineering and Embedded Development.
 
 <!--
