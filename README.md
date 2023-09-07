@@ -14,7 +14,31 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Badges 
+#### Languages
+
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/9e24a848-2971-43dc-b95d-8b50a27db70e" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/f9e7b799-1eae-4cc3-9313-3f1d40bf7454" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/53c4a129-5f71-4b40-9a02-024b36381538" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/56a89980-ac87-44ca-b781-ff33540eb4c9" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/eb6afcf4-4573-44d7-9233-491be31059e6" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/545177c8-f7d6-43f8-8050-ca764f9b5769" width="50" />
+
+<!--
+#### Frameworks
+
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/070972e2-15d7-4215-9b30-eb806549d9f1" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/986f1364-9b37-4c5c-9bbc-b3192877f58f" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/b1b35020-574d-4a0a-8edd-6638371bd6f8" width="50" />
+-->
+
+#### Platforms
+
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/ff0c21d0-446c-44e8-906b-fb890fd001e4" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/a237c697-fa2e-4d8f-8ff2-72518acb1549" width="50" />
+<img src="https://github.com/tur11ng/tur11ng/assets/61602820/80d2c994-aa4d-4312-86a8-b1f6d7ae5cf3" width="50" />
+
+
+#### Badges
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tur1ng.png" width="250" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="250" />
 
