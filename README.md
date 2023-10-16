@@ -40,7 +40,7 @@
 
 #### Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" /> <img src="https://github.com/tur11ng/tur11ng/assets/61602820/ae67c385-d977-46b1-992a-f28480bca5e5" width="200" height="46"/>
 
 #### Contact
 
