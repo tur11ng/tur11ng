@@ -39,7 +39,7 @@
 
 #### Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" /> <img src="https://github.com/tur11ng/tur11ng/assets/61602820/a75038c3-fc11-4028-bdd5-b3a0a2e7e83e" width="200" height="46"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" /> <img src="https://github.com/tur11ng/tur11ng/assets/61602820/17035ec5-5bc2-4195-bf90-4b615ae846c7" width="200" height="46"/>
 
 #### Statistics
 
