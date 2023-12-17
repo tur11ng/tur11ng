@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I hold an Int. MSc. degree in Computer Science and Informatics.
-- 🔭 I’m currently working as a Cyber Security Engineer and part-time Freelance Fullstack Software Engineer.
-- 🤟 My interests include Cryptography, Mathematics, Reverse Engineering and Embedded Development.
+- 🎓 I hold an Int. MSc. degree in Computer Science and Informatics from University of Patras. I am currently pursuing my MSc. in Hardware and Software Integrated Systems (HSIS) at University of Patras.
+- 🤟 My interests include Security, Cryptography, Reverse Engineering, Embedded Development and Mathematics.
 
 <!--
 - 🌱 I’m currently learning 
