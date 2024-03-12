@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💼 Currently working as an Information Security Specialist.
 - 🎓 I hold an Int. MSc. degree in Computer Science and Informatics from University of Patras. I am currently pursuing my MSc. in Hardware and Software Integrated Systems (HSIS) at University of Patras.
 - 🤟 My interests include Security, Cryptography, Reverse Engineering, Embedded Development and Mathematics.
 
@@ -47,3 +48,6 @@
 #### Contact
 
 <a href="https://reddit.com/u/tur11ng"><img src="https://github.com/tur11ng/tur11ng/assets/61602820/b4b767cf-25b4-4883-97b0-0977615426d3" width="40" /></a>
+
+#### Desclaimer
+⚠️ The content reflects my personal views and not those of my employer
