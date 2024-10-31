@@ -39,7 +39,8 @@
 
 #### Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" /> <img src="https://github.com/tur11ng/tur11ng/assets/61602820/17035ec5-5bc2-4195-bf90-4b615ae846c7" width="200" height="46"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tur11ng.png" width="200" /> <img src="http://www.hackthebox.eu/badge/image/30417" width="200" /> <img src="https://github.com/tur11ng/tur11ng/assets/61602820/17035ec5-5bc2-4195-bf90-4b615ae846c7" width="200" height="46"/> <img src="https://stackexchange.com/users/flair/8134250.png?theme=dark" width="200" height="46" alt="profile for tur11ng on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for tur11ng on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+
 
 #### Statistics
 
