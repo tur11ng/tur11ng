@@ -50,5 +50,5 @@
 
 <a href="https://reddit.com/u/tur11ng"><img src="https://github.com/tur11ng/tur11ng/assets/61602820/b4b767cf-25b4-4883-97b0-0977615426d3" width="40" /></a>
 
-#### Desclaimer
+#### Disclaimer
 ⚠️ The content reflects my personal views and not those of my employer
