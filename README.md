@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 Currently working as a Cyber Security Engineer.
-- 🎓 I hold an Int. MSc. degree in Computer Science and Informatics from University of Patras. I am currently pursuing my MSc. in Hardware and Software Integrated Systems (HSIS) at University of Patras.
+- 🎓 I hold an Int. MSc. degree in Computer Science and Informatics from University of Patras. I am currently pursuing my PhD in Systems & Methods for Secure Computation at University of Patras.
 - 🤟 My interests include Security, Cryptography, Reverse Engineering, Embedded Development and Mathematics.
 
 <!--
